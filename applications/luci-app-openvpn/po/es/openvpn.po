@@ -584,7 +584,7 @@ msgstr ""
 
 #: applications/luci-app-openvpn/luasrc/model/cbi/openvpn-file.lua:44
 msgid "Section to modify the OVPN config file (%s)"
-msgstr "Sección para modificar el archivo de configuración OVPN (% )"
+msgstr "Sección para modificar el archivo de configuración OVPN (%s)"
 
 #: applications/luci-app-openvpn/luasrc/model/cbi/openvpn-advanced.lua:265
 #: applications/luci-app-openvpn/luasrc/model/cbi/openvpn-basic.lua:45
